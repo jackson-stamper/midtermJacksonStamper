@@ -25,6 +25,14 @@
             "products",
             "products.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calculate",
+            "calculate.json"
+          ]
         }
       ],
       "configxml": null,
@@ -46,7 +54,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "products",
+      "firstform": "calculate",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",

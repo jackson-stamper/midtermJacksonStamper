@@ -21,7 +21,7 @@ eg. the user could enter:
             etc.
 The program runs without error.
 */
-
+/*
 let storeProducts = ["milk", "cheese", "cream", "eggs"]
 
 function addProduct(array){
@@ -40,5 +40,6 @@ else
 for (i=0; i<storeProducts.length; i++) {
   console.log(storeProducts[i])
   }
+*/
 
 
